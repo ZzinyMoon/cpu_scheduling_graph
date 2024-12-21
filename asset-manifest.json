@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cpu_scheduling_graph/static/css/main.18a516f7.css",
+    "main.js": "/cpu_scheduling_graph/static/js/main.ca553d4e.js",
+    "index.html": "/cpu_scheduling_graph/index.html",
+    "main.18a516f7.css.map": "/cpu_scheduling_graph/static/css/main.18a516f7.css.map",
+    "main.ca553d4e.js.map": "/cpu_scheduling_graph/static/js/main.ca553d4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18a516f7.css",
+    "static/js/main.ca553d4e.js"
+  ]
+}
